@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "npx http-server -a localhost -p 8000"
+  },
+  "devDependencies": {
+    "dts2hx": "^0.18.1"
+  },
+  "dependencies": {
+    "http-server": "^14.1.0",
+    "peerjs": "^1.3.2"
+  }
+}

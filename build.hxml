@@ -1,0 +1,7 @@
+-cp src
+-cp peerjs
+-main Main
+-lib heaps
+-lib differ
+--debug
+-js game.js
